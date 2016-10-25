@@ -1,6 +1,6 @@
 ### csharp-runner
 
-Allow run console application with nodejs
+Allow you to run c# code with nodejs
 
 ## ___.Net Framework is required!___
 
