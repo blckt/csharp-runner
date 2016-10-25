@@ -8,13 +8,7 @@ public class Bar
             return "Hi";
         }
     }
-    public class Zoo{
-        public object HelloZoo(){
-            return new {
-                Status="Hello"
-            };
-        }
-    }`;
+   `;
 const helloWorld= `
 namespace Foo
 {
